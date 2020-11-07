@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.vitalliuss.helloci.AppTest" time="0.094" tests="5" errors="0" skipped="1" failures="1">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\meshk\Desktop\projects_java\maven-task\target\test-classes;C:\Users\meshk\Desktop\projects_java\maven-task\target\classes;C:\Users\meshk\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\meshk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Europe/Minsk"/>
+    <property name="user.country.format" value="BY"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.9\bin"/>
+    <property name="sun.java.command" value="C:\Users\meshk\AppData\Local\Temp\surefire13931905016404269882\surefirebooter17531796726496584159.jar C:\Users\meshk\AppData\Local\Temp\surefire13931905016404269882 2020-11-07T15-15-48_294-jvmRun1 surefire18387605832340190559tmp surefire_017210055601631396480tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\meshk\Desktop\projects_java\maven-task\target\test-classes;C:\Users\meshk\Desktop\projects_java\maven-task\target\classes;C:\Users\meshk\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\meshk\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\meshk"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.9"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\meshk\Desktop\projects_java\maven-task"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\meshk\AppData\Local\Temp\surefire13931905016404269882\surefirebooter17531796726496584159.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.9+7-LTS"/>
+    <property name="user.name" value="meshk"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\meshk\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\meshk\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.9"/>
+    <property name="user.dir" value="C:\Users\meshk\Desktop\projects_java\maven-task"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.9\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\meshk\bin;C:\Users\meshk\AppData\Local\Programs\Git\mingw64\bin;C:\Users\meshk\AppData\Local\Programs\Git\usr\local\bin;C:\Users\meshk\AppData\Local\Programs\Git\usr\bin;C:\Users\meshk\AppData\Local\Programs\Git\usr\bin;C:\Users\meshk\AppData\Local\Programs\Git\mingw64\bin;C:\Users\meshk\AppData\Local\Programs\Git\usr\bin;C:\Users\meshk\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Users\user\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Java\jdk-11.0.9\bin;C:\apache-maven-3.6.3\bin;C:\Users\meshk\AppData\Local\Microsoft\WindowsApps;C:\Users\meshk\AppData\Local\Programs\Git\cmd;C:\Users\meshk\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\meshk\AppData\Local\Programs\Git\usr\bin\vendor_perl;C:\Users\meshk\AppData\Local\Programs\Git\usr\bin\core_perl;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.9+7-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testShouldBeFailed" classname="com.github.vitalliuss.helloci.AppTest" time="0.015">
+    <failure type="java.lang.AssertionError">java.lang.AssertionError
+	at com.github.vitalliuss.helloci.AppTest.testShouldBeFailed(AppTest.java:21)
+</failure>
+  </testcase>
+  <testcase name="testShouldBePassed" classname="com.github.vitalliuss.helloci.AppTest" time="0"/>
+  <testcase name="testAnotherMethod" classname="com.github.vitalliuss.helloci.AppTest" time="0"/>
+  <testcase name="testAnotherClass" classname="com.github.vitalliuss.helloci.AppTest" time="0"/>
+  <testcase name="testShouldBeSKipped" classname="com.github.vitalliuss.helloci.AppTest" time="0">
+    <skipped message="Not implemented yet"/>
+  </testcase>
+</testsuite>
